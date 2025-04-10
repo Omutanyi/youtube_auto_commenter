@@ -5,7 +5,7 @@ This Python script automatically replies to comments on a specific YouTube video
 ## Prerequisites
 
 1. **Python 3.8+**: [Download Python](https://www.python.org/downloads/)
-2. **Google Chrome**: [Download Chrome](https://www.google.com/chrome/)
+2. **Google ChromeDriver**: [Download Chrome](https://developer.chrome.com/blog/chrome-for-testing)
 3. **Youtube channel**: [Download Git](https://git-scm.com/downloads)
 
 ## Installation
